@@ -1,0 +1,6 @@
+currencyExternalServiceUrl: https://openexchangerates.org
+gifExternalServiceUrl: https://api.giphy.com/v1/gifs
+gifMediaUrl: https://i.giphy.com/media
+gifApiKey: ${myGifApiKey}
+appId: ${myAppId}
+baseCurrency: USD
